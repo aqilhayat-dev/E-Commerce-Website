@@ -14,3 +14,56 @@ body {
   background-color: oklab(84.609% 0.01149 0.04285);
 }
 
+/* =========================
+   HERO IMAGE SLIDESHOW
+   ========================= */
+
+.hero-slide {
+  opacity: 0;
+  animation: heroSlide 20s infinite;
+}
+
+/* Image 1 */
+.hero-slide-1 {
+  animation-delay: 0s;
+}
+
+/* Image 2 */
+.hero-slide-2 {
+  animation-delay: 5s;
+}
+
+/* Image 3 */
+.hero-slide-3 {
+  animation-delay: 10s;
+}
+
+/* Image 4 */
+.hero-slide-4 {
+  animation-delay: 15s;
+}
+
+
+@keyframes heroSlide {
+
+  0% {
+    opacity: 0;
+  }
+
+  5% {
+    opacity: 1;
+  }
+
+  25% {
+    opacity: 1;
+  }
+
+  30% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0;
+  }
+
+}

@@ -8,6 +8,8 @@ import BestSeller from "./component/BestSeller";
 import Footer from "./component/Footer";
 import Women from "./pages/Women";
 import Men from "./Pages/Men";
+import Accessory from "./Pages/Accessory";
+import About from "./component/About";
 const App = () => {
   return (
     <BrowserRouter>
@@ -25,7 +27,7 @@ const App = () => {
               <Hero2 />
               <Category />
               <BestSeller />
-              <Footer />
+              
             </>
           }
         />
@@ -35,7 +37,7 @@ const App = () => {
          <>
               
               <Women />
-              <Footer />
+            
             </>
         
         />
@@ -45,13 +47,31 @@ const App = () => {
          <>
               
               <Men />
-              <Footer />
+              
+            </>
+        
+        />
+
+         <Route path="/Accessory" element=
+         <>
+              
+              <Accessory />
+              
+            </>
+        
+        />
+
+<Route path="/About" element=
+         <>
+              
+              <About />
+              
             </>
         
         />
 
       </Routes>
-
+      <Footer />
     </BrowserRouter>
   );
 };
