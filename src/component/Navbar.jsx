@@ -12,14 +12,16 @@ import logo from "../assets/logo3.png";
 
 const navLinks = [
   { name: "Home", href: "/" },
-  { name: "Shop", href: "/shop" },
+  
   { name: "Women", href: "/Women" },
   { name: "Men", href: "/Men" },
+  { name: "Kid", href: "/Kid" },
   { name: "Accessories", href: "/Accessory" },
   { name: "About", href: "/about" },
 ];
 
 const Navbar = () => {
+  
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (

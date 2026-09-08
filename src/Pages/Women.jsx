@@ -5,183 +5,183 @@ const Women = () => {
  const women = [
   {
     id: 1,
-    name: "Elegant Summer Dress",
+    name: "Elegant White Floral Kurta",
     price: 3200,
-    image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500"
+    image: "https://images.unsplash.com/photo-1745313452052-0e4e341f326c?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 2,
-    name: "Classic White Dress",
+    name: "Blush Pink Floral Kurta Set",
     price: 3500,
-    image: "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=500"
+    image: "https://images.unsplash.com/photo-1741847639057-b51a25d42892?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 3,
-    name: "Floral Midi Dress",
+    name: "Garden Muse Kurta",
     price: 3800,
-    image: "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=500"
+    image: "https://images.unsplash.com/photo-1708534419572-6e6614a53ca1?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 4,
-    name: "Casual Beige Dress",
+    name: "Emerald Grace Kurta",
     price: 2900,
-    image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500"
+    image: "https://images.unsplash.com/photo-1597983073750-16f5ded1321f?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 5,
-    name: "Black Evening Dress",
+    name: "Golden Tiered Embroidered Kurta",
     price: 4500,
-    image: "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=500"
+    image: "https://images.unsplash.com/photo-1760287363878-1a09af715b80?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 6,
-    name: "Elegant Pink Dress",
+    name: "Ivory Elegance Kurta",
     price: 3600,
-    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500"
+    image: "https://images.unsplash.com/photo-1667665970124-2273c6ef3489?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 7,
-    name: "Minimal Black Dress",
+    name: "Midnight Paisley Kurta",
     price: 3900,
-    image: "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=500"
+    image: "https://images.unsplash.com/photo-1760287364219-160c234ded00?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 8,
-    name: "Denim Jacket",
+    name: "Maroon Charm Kurta",
     price: 2800,
-    image: "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=500"
+    image: "https://images.unsplash.com/photo-1708534246055-d7b149acb731?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 9,
-    name: "Classic Blazer",
+    name: "Royal Purple Kurta",
     price: 4200,
-    image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500"
+    image: "https://images.unsplash.com/photo-1708534246051-7f47b279e94b?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 10,
-    name: "Satin Blouse",
+    name: "Heritage Green Kurta",
     price: 2200,
-    image: "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=500"
+    image: "https://images.unsplash.com/photo-1597983073540-684a10b15ab1?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 11,
-    name: "Cream Knit Sweater",
+    name: "Rosewood Tie-Neck Kurta",
     price: 2600,
-    image: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=500"
+    image: "https://images.unsplash.com/photo-1762777777819-4d9aa5529368?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 12,
-    name: "Oversized Knit Sweater",
+    name: "Studio Chic Kurta Flatlay",
     price: 2800,
-    image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500"
+    image: "https://images.unsplash.com/photo-1715859019107-90c16285b149?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 13,
-    name: "Casual Blue Jeans",
+    name: "Festive Red Kurta",
     price: 3000,
-    image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500"
+    image: "https://images.unsplash.com/photo-1597983073512-90bd150e19f6?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 14,
-    name: "High Waist Jeans",
+    name: "Sapphire Button-Up Kurta",
     price: 3200,
-    image: "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500"
+    image: "https://images.unsplash.com/photo-1760287363750-1c888c75578f?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 15,
-    name: "Wide Leg Trousers",
+    name: "Bloom Garden Kurta",
     price: 2900,
-    image: "https://images.unsplash.com/photo-1506629905607-d9f4c2e4e5b4?w=500"
+    image: "https://images.unsplash.com/photo-1764928947261-f5687e0faa4a?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 16,
-    name: "Pleated Midi Skirt",
+    name: "Patterned Elegance Kurta",
     price: 2700,
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500"
+    image: "https://images.unsplash.com/photo-1767785829347-cc13bd969514?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 17,
-    name: "Classic Denim Skirt",
+    name: "Classic Poise Kurta",
     price: 2400,
-    image: "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=500"
+    image: "https://images.unsplash.com/photo-1655288828238-21d86ec971c3?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 18,
-    name: "Elegant Maxi Skirt",
+    name: "Riverside Dusk Kurta",
     price: 3300,
-    image: "https://images.unsplash.com/photo-1583846783214-7229a91b20ed?w=500"
+    image: "https://images.unsplash.com/photo-1667665970118-f55705003914?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 19,
-    name: "Linen Trousers",
+    name: "Timeless Portrait Kurta",
     price: 2500,
-    image: "https://images.unsplash.com/photo-1598522325074-042db73aa4e6?w=500"
+    image: "https://images.unsplash.com/photo-1667665970121-c3504c519cda?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 20,
-    name: "Elegant Jumpsuit",
+    name: "Amber Glow Kurta Set",
     price: 4200,
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500"
+    image: "https://images.unsplash.com/photo-1745313452052-0e4e341f326c?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 21,
-    name: "Casual Jumpsuit",
+    name: "Everyday Grace Kurta",
     price: 3500,
-    image: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=500"
+    image: "https://images.unsplash.com/photo-1741847639057-b51a25d42892?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 22,
-    name: "Long Sleeve Dress",
+    name: "Long Sleeve Kurta",
     price: 3700,
-    image: "https://images.unsplash.com/photo-1502716119720-b23a93e5fe1b?w=500"
+    image: "https://images.unsplash.com/photo-1708534419572-6e6614a53ca1?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 23,
-    name: "Cocktail Dress",
+    name: "Evening Soirée Kurta",
     price: 4800,
-    image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500"
+    image: "https://images.unsplash.com/photo-1760287363878-1a09af715b80?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 24,
-    name: "Cotton Casual Dress",
+    name: "Cotton Casual Kurta",
     price: 2800,
-    image: "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=500"
+    image: "https://images.unsplash.com/photo-1597983073750-16f5ded1321f?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 25,
-    name: "Floral Summer Outfit",
+    name: "Floral Summer Kurta",
     price: 3100,
-    image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=500"
+    image: "https://images.unsplash.com/photo-1764928947261-f5687e0faa4a?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 26,
-    name: "Elegant Green Dress",
+    name: "Emerald Elegance Kurta",
     price: 3900,
-    image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=500"
+    image: "https://images.unsplash.com/photo-1760287364219-160c234ded00?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 27,
-    name: "Casual White Top",
+    name: "Casual White Kurti",
     price: 1800,
-    image: "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?w=500"
+    image: "https://images.unsplash.com/photo-1667665970124-2273c6ef3489?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 28,
-    name: "Beige Casual Outfit",
+    name: "Beige Everyday Kurta",
     price: 3400,
-    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=500"
+    image: "https://images.unsplash.com/photo-1708534246055-d7b149acb731?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 29,
-    name: "Modern Casual Dress",
+    name: "Modern Ethnic Kurta",
     price: 3600,
-    image: "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?w=500"
+    image: "https://images.unsplash.com/photo-1767785829347-cc13bd969514?w=600&auto=format&fit=crop&q=80"
   },
   {
     id: 30,
-    name: "Premium Evening Outfit",
+    name: "Premium Bridal Kurta",
     price: 5200,
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500"
+    image: "https://images.unsplash.com/photo-1762777777819-4d9aa5529368?w=600&auto=format&fit=crop&q=80"
   }
 ];
 

@@ -10,6 +10,7 @@ import Women from "./pages/Women";
 import Men from "./Pages/Men";
 import Accessory from "./Pages/Accessory";
 import About from "./component/About";
+import Kid from "./Pages/Kid";
 const App = () => {
   return (
     <BrowserRouter>
@@ -51,6 +52,17 @@ const App = () => {
             </>
         
         />
+
+ <Route path="/Kid" element=
+         <>
+              
+              <Kid />
+              
+            </>
+        
+        />
+
+
 
          <Route path="/Accessory" element=
          <>

@@ -7,7 +7,7 @@ const Product = ({ name, price, image }) => {
       <img
         src={image}
         alt={name}
-        className="w-full h-48 md:h-60 object-cover"
+        className="w-full h-48 md:h-64 lg:h-80 object-cover"
       />
 
       <div className="p-3 md:p-4">
