@@ -14,7 +14,7 @@ const Footer = () => {
           {/* ================= BRAND ================= */}
           <div>
             <h2 className="text-3xl font-semibold mb-4">
-              StyleHub
+              Nexora
             </h2>
 
             <p className="text-gray-400 leading-7 max-w-sm">
