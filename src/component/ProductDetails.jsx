@@ -1,7 +1,7 @@
 
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import products from "../data/products";
+import products from "../Data/Products";
 
 const ProductDetails = () => {
   const { id } = useParams();
