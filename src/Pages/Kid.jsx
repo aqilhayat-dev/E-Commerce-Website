@@ -1,8 +1,8 @@
 import Product from "../component/Product";
-import products from "../data/Products";
+import Products from "../data/Products";
 
 const Kid = () => {
-  const kids = products.filter(
+  const kids = Products.filter(
     (product) => product.category === "Kids"
   );
 
