@@ -11,7 +11,6 @@ A modern and responsive **E-Commerce Website for clothing and accessories**, bui
 * 🛒 Product display and shopping interface
 * ❤️ Wishlist/favorite products
 * 📱 Responsive design for different screen sizes
-* 🔄 Products fetched using APIs
 * ⚛️ Built with React components
 * 🧭 React Router for page navigation
 
