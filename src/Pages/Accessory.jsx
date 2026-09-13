@@ -1,5 +1,5 @@
 import Product from "../component/Product";
-import products from "../data/products.js";
+import products from "../data/Products";
 
 const Accessory = () => {
   const accessories = products.filter(

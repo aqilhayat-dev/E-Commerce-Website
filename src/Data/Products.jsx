@@ -1,4 +1,4 @@
-const products = [
+const Products = [
   // =========================
   // WOMEN
   // =========================
@@ -980,4 +980,4 @@ const products = [
   },
 ];
 
-export default products;
+export default Products;
