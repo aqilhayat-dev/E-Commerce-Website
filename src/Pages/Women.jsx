@@ -1,5 +1,5 @@
 import Product from "../component/Product";
-import products from "../data/products";
+import products from "../data/products.js";
 
 const Women = () => {
   const women = products.filter(
