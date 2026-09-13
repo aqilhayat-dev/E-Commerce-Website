@@ -10,7 +10,7 @@ import Category from "./component/Category";
 import Navbar from "./component/Navbar";
 import Hero from "./component/Hero";
 import Hero2 from "./component/Hero2";
-import BestSeller from "./component/BestSeller";
+import Bestseller from "./component/Bestseller";
 import Footer from "./component/Footer";
 import About from "./component/About";
 import OfferBanner from "./component/OfferBanner";
@@ -37,7 +37,7 @@ const App = () => {
               <Hero />
               <Hero2 />
               <Category />
-              <BestSeller />
+              <Bestseller />
             </>
           }
         />
