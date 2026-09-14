@@ -15,7 +15,7 @@ const Product = ({ product }) => {
     <div
       onClick={handleClick}
       className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition duration-300 cursor-pointer"
-    >
+     >
       <img
         src={product.image}
         alt={product.name}
